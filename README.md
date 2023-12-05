@@ -1,3 +1,5 @@
-# tech-basics
+# Tech Basics
 
-This is a test.
+F/W 2023
+Leuphana University Lüneburg
+Hamburg Media School
